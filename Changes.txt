@@ -1,0 +1,7 @@
+Add this into .ssh/config File {Files -> Other Locations -> Computer -> etc -> ssh -> ssh_config(change in this file)}
+
+KexAlgorithms +diffie-hellman-group1-sha1
+HostKeyAlgorithms=+ssh-dss
+
+
+
